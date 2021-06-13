@@ -34,30 +34,7 @@
           <td width="25%">
             <img src="images/WhatsApp Image 2021-06-13 at 14.31.06.jpeg" width="100%">
           </td>
-            <td>
-              
-              <b>cita-cite</b>
-              
-              <ul>
-                <li>bomba</li>
-                <li>polis</li>
-                <li>juruterbang</li>
-              </ul>
-              
-              <b>hobi</b>
-              
-              <ol>
-                <li>berlari</li>
-                <li>main bola</li>
-                <li>main futsal</li>
-              </ol>
-              
-              <b>keistimewaan</b>
-              
-              <dt>hensem</dt>
-              <dd>saya hensem sebab saya goodlooking</dd>
-              <dt>pandai</dt>
-              <dd>saya pandai sebab saya belajar</dd>
+            <td                                                                                                                                                                                                                                        
           </td>
         </tr>
       </table>
