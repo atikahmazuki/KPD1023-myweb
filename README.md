@@ -28,27 +28,8 @@
       </table>
       
       <br>
-      
-      <table width="75%">
-        <tr>
-          <td width="25%">
-            <img src="images/WhatsApp Image 2021-06-13 at 14.31.06.jpeg" width="100%">
-          </td>
-            <td                                                                                                                                                                                                                                        
-          </td>
-        </tr>
-      </table>
-      
-      <br>
         
-       <table width="75%" border="2">
-        <tr>
-          <th>&#169;2021 Kolej Vokasional Perdagangan, Johor</th>
-        </tr>
-      </table>
-      
-      
-    </center>
-  </body>
-  
+     
+     
+      </body>
 </html>
