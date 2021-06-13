@@ -30,6 +30,6 @@
       <br>
         
      
-     
-      </body>
+    </center>
+   </body>
 </html>
