@@ -1,6 +1,8 @@
+
+</html>
 <html>
   <head>
-    <title>MY FIRST WEB</title>
+    <title>Jom Masuk Dagang</title>
   </head>
   
   <body>
@@ -21,7 +23,7 @@
             <a href="index.html"><button>UTAMA</button></a>
             &nbsp;
             <a href="jommasukdagang.html"><button>JOM MASUK DAGANG</button></a>
-             &nbsp;
+              &nbsp;
             <a href="tentangsaya.html"><button>TENTANG SAYA</button></a>
           </td>
         </tr>
@@ -32,8 +34,8 @@
       <table width="75%">
         <tr>
           <td align="center">
-            <h5>Ini halaman utama untuk MY FIRST WEB</h5>
-          </td>
+            <img src="images/poster.png.jpg" width="30%">
+           </td
         </tr>
       </table>
       
@@ -50,4 +52,5 @@
   </body>
   
 </html>
+
     
