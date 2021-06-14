@@ -26,10 +26,16 @@
           </td>
         </tr>
       </table>
-      
-      </br>
         
-     
+       <table width="75%" border="2">
+        <tr>
+          <th>&#169;2021 Kolej Vokasional Perdagangan, Johor</th>
+        </tr>
+      </table>
+      
+      
     </center>
-   </body>
+  </body>
+  
 </html>
+    
