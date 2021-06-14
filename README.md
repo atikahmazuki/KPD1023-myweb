@@ -21,14 +21,24 @@
             <a href="index.html"><button>UTAMA</button></a>
             &nbsp;
             <a href="jommasukdagang.html"><button>JOM MASUK DAGANG</button></a>
-            &nbsp;
+             &nbsp;
             <a href="tentangsaya.html"><button>TENTANG SAYA</button></a>
           </td>
         </tr>
       </table>
       
-      </br>
-    
+      <br>
+      
+      <table width="75%">
+        <tr>
+          <td align="center">
+            <h5>Ini halaman utama untuk MY FIRST WEB</h5>
+          </td>
+        </tr>
+      </table>
+      
+      <br>
+        
        <table width="75%" border="2">
         <tr>
           <th>&#169;2021 Kolej Vokasional Perdagangan, Johor</th>
