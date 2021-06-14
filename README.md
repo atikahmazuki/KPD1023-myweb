@@ -8,7 +8,8 @@
       
       <table width="75%" border="2">
         <tr>
-          <th width="20%"><img src="images/kvpjb.png.png" width="100%" ></th>
+          <th width="20%"><img src="images.githubusercontent.com/85836436/121902279-c1138f00-cd59-11eb-8a1c-ad4437d7aaa4.jpg)
+" width="100%" ></th>
           <th><font size="50">My First Web</font></th>
         </tr>
       </table>
@@ -32,7 +33,7 @@
       <table width="75%">
         <tr>
           <td width="25%">
-            <img src="![masuk dagang](https://user-images.githubusercontent.com/85836436/121901937-71cd5e80-cd59-11eb-9e7b-b389cf44f7e8.jpg)
+            <img src="images.githubusercontent.com/85836436/121901937-71cd5e80-cd59-11eb-9e7b-b389cf44f7e8.jpg)
 " width="100%">
           </td>
             <td>
