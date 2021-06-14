@@ -32,7 +32,8 @@
       <table width="75%">
         <tr>
           <td width="25%">
-            <img src="" width="100%">
+            <img src="![masuk dagang](https://user-images.githubusercontent.com/85836436/121901937-71cd5e80-cd59-11eb-9e7b-b389cf44f7e8.jpg)
+" width="100%">
           </td>
             <td>
               
